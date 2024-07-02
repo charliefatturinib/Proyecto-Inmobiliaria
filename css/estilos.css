@@ -1,0 +1,32 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.socials {
+    min-width: 700px;
+    display: flex;
+    justify-content: space-around;
+   
+
+}
+
+
+.socials a {
+    text-decoration: none;
+    font-size: 28px;
+    width: 60px;
+    color: #fff;
+}
+
+.socials a i {
+    font-size: 1.1rem;
+    transition: color .4s ease;
+}
+
+.socials a:hover i {
+    color: aqua;
+    justify-content: center;
+}
