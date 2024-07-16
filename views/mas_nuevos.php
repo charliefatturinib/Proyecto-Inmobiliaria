@@ -1,6 +1,8 @@
+<h1 class="text-center mt-3">Mas Nuevos</h1>
+
 
 <div class="row mt-4">
-<div class="col-3 mx-5">
+    <div class="col-3 mx-auto">
         <div class="card mb-3">
             <img src="img/casas/departamento4.jpg" class="card-img-top" alt="Batman" style="max-height: 350px; overflow: hidden;"> <!-- nuevo -->
             <div class="card-body" style="height:125px; overflow: hidden;"> <!-- nuevo -->
@@ -21,7 +23,7 @@
         </div>
     </div>
 
-    <div class="col-3 mx-5">
+    <div class="col-3 mx-auto">
         <div class="card mb-3">
             <img src="img/casas/departamento5.jpg" class="card-img-top" alt="" style="max-height: 350px; overflow: hidden;"> <!-- nuevo -->
             <div class="card-body" style="height:125px; overflow: hidden;"> <!-- nuevo -->
@@ -42,7 +44,7 @@
         </div>
     </div>
 
-    <div class="col-3 mx-5">
+    <div class="col-3 mx-auto">
         <div class="card mb-3">
             <img src="img/casas/departamento2.jpg" class="card-img-top" alt="" style="max-height: 350px; overflow: hidden;"> <!-- nuevo -->
             <div class="card-body" style="height:125px; overflow: hidden;"> <!-- nuevo -->
@@ -64,4 +66,4 @@
     </div>
 
 
-    </div> 
+</div>
